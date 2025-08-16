@@ -11,19 +11,16 @@ I'm Aditya, an Information Technology undergrad focused on backend engineering, 
 <li>mentoring or helping peers where I can add value</li>
 </ul>
 
-Contact me on [gmail](mailto:adityakirti.dev@gmail.com) or [linkedin](https://www.linkedin.com/in/aditya-kirti-954553297/).
+Contact me on [gmail](mailto:adityakirti.dev@gmail.com) or [linkedin](https://www.linkedin.com/in/aditya-kirti).
 
 You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
-
-<p align="start"> 
-🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
-<img src="https://profile-counter.glitch.me/addy118/count.svg"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Work
 
 1. [Fairshare](https://github.com/addy118/fairshare)
-2. [Cloudvault](https://github.com/addy118/cloudvault)
-3. [Auth Kit](https://github.com/addy118/auth-kit)
+2. [Livelet](https://github.com/addy118/livelet)
+3. [Cloudvault](https://github.com/addy118/cloudvault)
+4. [Auth Kit](https://github.com/addy118/auth-kit)
 
 <!--
 #### Basic but fun sites
